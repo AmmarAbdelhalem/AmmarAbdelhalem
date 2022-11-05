@@ -19,3 +19,30 @@
     <a href="https://github.com/AmmarAbdelhalem/Java_Calculator"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmmarAbdelhalem&repo=Java_Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java_Calculator"></a>
 </p>
 
+## 🔥 Streak stats
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmmarAbdelhalem&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+## 🧑🏽‍💻 Programming Language
+
+<div align="left">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40">
+    <img src="https://img.icons8.com/color/512/bash.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40">
+</div>
+
+## Github Stats
+
+<a href="https://github.com/AmmarAbdelhalem"><img alt="Ammar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AmmarAbdelhalem&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
+## Top Languages
+
+<a href="https://github.com/AmmarAbdelahalem"><img alt="Ammar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAbdelhalem&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
