@@ -50,6 +50,8 @@
     <img src="CERT\intro to cyber seecrurity-cert.png" width="100">
     <img src="CERT\java-cert.png" width="100">
     <img src="CERT\pentest-principles-cert.jpg" width="100">
+    <img src="CERT\1660770376266.jpeg" width="100">
+    <img src="CERT\download.png" width="100">
 </p>
 
 ## Top Languages
