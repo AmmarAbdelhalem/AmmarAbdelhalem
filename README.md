@@ -40,6 +40,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="40">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40">
     <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" width="40">
+    <img src="https://www.bing.com/th?id=OSK.5281b2031f84d08ace7ae1ccaf026615&w=188&h=132&c=7&o=6&dpr=1.25&pid=SANGAM" width="40">
 </div>
 
 <br>
