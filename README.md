@@ -43,6 +43,15 @@
 
 <a href="https://github.com/AmmarAbdelhalem"><img alt="Ammar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AmmarAbdelhalem&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
+## 🧾 My certifcation 
+<p align="left">
+    <img src="CERT\certificate-1667667227898.jpg" width="100">
+    <img src="CERT\Cybersecurity_Fundamentals-cert.png" width="100">
+    <img src="CERT\intro to cyber seecrurity-cert.png" width="100">
+    <img src="CERT\java-cert.png" width="100">
+    <img src="CERT\pentest-principles-cert.jpg" width="100">
+</p>
+
 ## Top Languages
 
 <a href="https://github.com/AmmarAbdelahalem"><img alt="Ammar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAbdelhalem&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
