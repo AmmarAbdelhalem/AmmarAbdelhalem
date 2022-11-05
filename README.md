@@ -16,15 +16,15 @@
 ## 📘 My Repos
 
 <p align="left">
-    <a href="https://github.com/AmmarAbdelhalem/VULN"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmmarAbdelhalem&repo=VULN&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="VULN"></a>
-    <a href="https://github.com/AmmarAbdelhalem/TCP_SERVER"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmmarAbdelhalem&repo=TCP_SERVER&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="TCP_SERVER"></a>
-    <a href="https://github.com/AmmarAbdelhalem/Java_Calculator"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmmarAbdelhalem&repo=Java_Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java_Calculator"></a>
+    <a href="https://github.com/AmmarAbdelhalem/VULN"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmmarAbdelhalem&repo=VULN&theme=react&bg_color=1F222E&title_color=6FF71E&hide_border=true&icon_color=6FF71E&show_icons=false" alt="VULN"></a>
+    <a href="https://github.com/AmmarAbdelhalem/TCP_SERVER"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmmarAbdelhalem&repo=TCP_SERVER&theme=react&bg_color=1F222E&title_color=6FF71E&hide_border=true&icon_color=6FF71E&show_icons=false" alt="TCP_SERVER"></a>
+    <a href="https://github.com/AmmarAbdelhalem/Java_Calculator"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmmarAbdelhalem&repo=Java_Calculator&theme=react&bg_color=1F222E&title_color=6FF71E&hide_border=true&icon_color=6FF71E&show_icons=false" alt="Java_Calculator"></a>
 </p>
 
 ## 🔥 Streak stats
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AmmarAbdelhalem&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmmarAbdelhalem&theme=react&hide_border=true&titlecolor=F85D7F)](https://git.io/streak-stats)
 
 </div>
 
@@ -55,7 +55,7 @@
 
 ## Github Stats
 
-<a href="https://github.com/AmmarAbdelhalem"><img alt="Ammar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AmmarAbdelhalem&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/AmmarAbdelhalem"><img alt="Ammar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AmmarAbdelhalem&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0000&title_color=6FF71E&icon_color=6FF71E" height="192px"/></a>
 
 ## 🧾 My certifcation
 <p align="left">
@@ -70,4 +70,4 @@
 
 ## Top Languages
 
-<a href="https://github.com/AmmarAbdelahalem"><img alt="Ammar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAbdelhalem&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<a href="https://github.com/AmmarAbdelahalem"><img alt="Ammar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAbdelhalem&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0000&title_color=6FF71E&icon_color=6FF71E&hide=Jupyter%20Notebook" height="192px"/></a>
