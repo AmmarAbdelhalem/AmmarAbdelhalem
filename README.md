@@ -43,6 +43,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40">
     <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" width="40">
     <img src="https://www.bing.com/th?id=OSK.5281b2031f84d08ace7ae1ccaf026615&w=188&h=132&c=7&o=6&dpr=1.25&pid=SANGAM" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" width=40>
 </div>
 
 <br>
@@ -50,9 +51,9 @@
 ## 🧑🏽‍💻 In Progress Programming Language
 
 <p align="left">
-    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" width=40>
     <img src="https://www.bing.com/th?id=OSK.5a517a705aac273240474fa1549391cb&w=148&h=148&c=7&o=6&dpr=1.25&pid=SANGAM" width=40>
     <img src="https://th.bing.com/th/id/R.bf99b61d6dc523745ba299caf02b3a1e?rik=Lujpb6a2JJj70A&pid=ImgRaw&r=0" width=40>
+    <img src="https://cdn-icons-png.flaticon.com/512/3097/3097008.png" width=40>
 </p>
 <br>
 
