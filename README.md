@@ -18,6 +18,7 @@
 ## 📘 My Repos
 
 <p align="left">
+    <a href="https://github.com/AmmarAbdelhalem/Full-sql-manual"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmmarAbdelhalem&repo=Full-sql-manual&theme=react&bg_color=1F222E&title_color=6FF71E&hide_border=true&icon_color=6FF71E&show_icons=false" alt="Full-sql-manual"></a>
     <a href="https://github.com/AmmarAbdelhalem/VULN"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmmarAbdelhalem&repo=VULN&theme=react&bg_color=1F222E&title_color=6FF71E&hide_border=true&icon_color=6FF71E&show_icons=false" alt="VULN"></a>
     <a href="https://github.com/AmmarAbdelhalem/TCP_SERVER"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmmarAbdelhalem&repo=TCP_SERVER&theme=react&bg_color=1F222E&title_color=6FF71E&hide_border=true&icon_color=6FF71E&show_icons=false" alt="TCP_SERVER"></a>
     <a href="https://github.com/AmmarAbdelhalem/Java_Calculator"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AmmarAbdelhalem&repo=Java_Calculator&theme=react&bg_color=1F222E&title_color=6FF71E&hide_border=true&icon_color=6FF71E&show_icons=false" alt="Java_Calculator"></a>
