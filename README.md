@@ -13,7 +13,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"width="30"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=AmmarAbdelhalem&color=green)
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 📘 My Repos
 
@@ -30,7 +32,7 @@
 
 </div>
 
-## 🧑🏽‍💻 Programming Language
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills</b>
 
 <div align="left">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40">
@@ -47,13 +49,6 @@
 
 <br>
 
-## 🧑🏽‍💻 In Progress Programming Language
-
-<p align="left">
-    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" width=40>
-    <img src="https://www.bing.com/th?id=OSK.5a517a705aac273240474fa1549391cb&w=148&h=148&c=7&o=6&dpr=1.25&pid=SANGAM" width=40>
-    <img src="https://th.bing.com/th/id/R.bf99b61d6dc523745ba299caf02b3a1e?rik=Lujpb6a2JJj70A&pid=ImgRaw&r=0" width=40>
-</p>
 <br>
 
 ## Github Stats
