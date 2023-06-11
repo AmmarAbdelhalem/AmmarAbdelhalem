@@ -2,7 +2,7 @@
 
 <h1>Ammar Abdelhalem</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?pause=2000&color=6FF71E&center=true&vCenter=true&width=435&lines=Jr.+Penetration+Tester;Intermediate+Python+Devoloper+)](https://git.io/typing-svg)
+## Penetration tester
 </div>
 <p align="center">
     <a href="https://www.linkedin.com/in/ammar-abdelhalem-5ba905217/">
@@ -15,7 +15,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+--- 
 
 <!-- ## 📘 My Repos
 
@@ -33,7 +33,7 @@
 
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills</b>
+## 🤹 Skills
 
 <div align="left">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40">
